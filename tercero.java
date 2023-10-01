@@ -1,5 +1,5 @@
 public class tercero {
-    // hola
+    // hola cambios
     float casa, persona;
 
 }
